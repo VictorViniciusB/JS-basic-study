@@ -1,7 +1,7 @@
 /*
     *Array (Vetores)
     *Uma lista
-    *Agrupamento de dado
+    *Agrupamento de dados
 
     ["Victor" , 22]
 */
